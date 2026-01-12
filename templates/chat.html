@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Chat</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.socket.io/4.6.1/socket.io.min.js"></script>
+</head>
+<body>
+  <div id="chat">
+    <div id="spaceDiv"></div>
+  </div>
+
+  <div class="input-area">
+    <input id="message" autocomplete="off" placeholder="Bir şeyler yaz..." />
+    <button onclick="sendMessage()">></button>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

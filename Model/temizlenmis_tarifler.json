@@ -1,0 +1,1860 @@
+[
+  {
+    "foodname": "karnıyarık",
+    "foodcategory": "türk mutfağı  ana yemek",
+    "city": "istanbul",
+    "materials": [
+      "patlıcan",
+      "biber",
+      "soğan",
+      "domates"
+    ],
+    "description": "önce patlıcanlar yıkandıktan sonra sap kısmından hafifçe delinip kızgın yağda dışı çıtırlaşana kadar kızartılır. ayrı bir tavada ince doğranmış soğan, biber ve domates zeytinyağında kavrulur tuz ve baharatlarla tatlandırılır. kızarmış patlıcanların içi hafifçe oyularak hazırlanan harç doldurulur, fırına verilip malzemelerin birbirine iyice karışması sağlanır. servis öncesinde sıcak olarak sunulur."
+  },
+  {
+    "foodname": "mantı",
+    "foodcategory": "türk mutfağı  mantı",
+    "city": "kayseri",
+    "materials": [
+      "un",
+      "yumurta",
+      "et",
+      "soğan",
+      "yoğurt",
+      "sarımsak"
+    ],
+    "description": "hamur, un ve yumurta karışımı ile incecik açılır ve küçük kareler halinde kesilir. i̇ç harç olarak, ince kıyılmış et ve soğan, tuz ve karabiber ile harmanlanır. hamurun ortasına yerleştirilen harç, bohça şeklinde kapatılır. bol su dolu tencerede haşlanıp, süzülerek sarımsaklı yoğurt ve eritilmiş tereyağı ile servis edilir."
+  },
+  {
+    "foodname": "pizza",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "napoli",
+    "materials": [
+      "hamur",
+      "peynir",
+      "domates",
+      "pepperoni"
+    ],
+    "description": "hamur yoğrulur ve mayalanması için dinlendirilir, ardından ince bir şekilde açılır. üzerine taze domates sosu, rendelenmiş mozzarella ve dilimlenmiş pepperoni yerleştirilir. yüksek sıcaklıkta fırında kısa sürede pişirilir kenarları çıtır, ortası yumuşak kalır. fırından çıkar çıkmaz sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "salata",
+    "foodcategory": "türk mutfağı  salata",
+    "city": "istanbul",
+    "materials": [
+      "marul",
+      "domates",
+      "salatalık",
+      "zeytinyağı"
+    ],
+    "description": "taze marul yaprakları, domates ve salatalık iyice yıkanır ve iri parçalar halinde doğranır. ayrı bir kapta zeytinyağı, limon suyu, tuz ve karabiber karıştırılarak sos hazırlanır. sebzeler bu sos ile nazikçe harmanlanır. servis tabağına alınarak soğuk olarak sunulur."
+  },
+  {
+    "foodname": "çorba",
+    "foodcategory": "türk mutfağı  çorba",
+    "city": "istanbul",
+    "materials": [
+      "tavuk",
+      "sebze",
+      "makarna"
+    ],
+    "description": "kemikli tavuk ve mevsim sebzeleri bol suyla birlikte büyük bir tencerede kaynatılır. kaynama sırasında çıkan köpük alınır. makarnalar ayrı bir kapta haşlanır ve çorbaya eklenir. tuz ve baharatlarla tatlandırılarak uzun süre kısık ateşte demlendikten sonra sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "börek",
+    "foodcategory": "türk mutfağı  börek",
+    "city": "istanbul",
+    "materials": [
+      "yufka",
+      "peynir",
+      "maydanoz",
+      "yumurta"
+    ],
+    "description": "yufkalar teker teker açılır ve üzerine eritilmiş tereyağı sürülür. i̇ç harç olarak rendelenmiş beyaz peynir, ince kıyılmış maydanoz ve çırpılmış yumurta karışımı hazırlanır. yufkanın geniş yüzeyine harç yayılır, dikkatlice sarılarak rulo haline getirilir. dilimlere kesilip, önceden ısıtılmış fırında altın rengini alana kadar pişirilir."
+  },
+  {
+    "foodname": "dolma",
+    "foodcategory": "türk mutfağı  dolma",
+    "city": "istanbul",
+    "materials": [
+      "üzüm yaprağı",
+      "pirinç",
+      "kıyma",
+      "baharat"
+    ],
+    "description": "üzüm yaprakları yıkanır ve hafifçe yumuşatılır. pirinç, kıyma, ince doğranmış soğan ve çeşitli baharatlarla hazırlanan iç harç, yaprakların içine konur ve sıkıca sarılır. dolmalar bir tencereye dizilir, üzerine zeytinyağı ve limon suyu gezdirilir. kısık ateşte, iç harç iyice pişene kadar demlendirilir."
+  },
+  {
+    "foodname": "kebap",
+    "foodcategory": "türk mutfağı  kebap",
+    "city": "adana",
+    "materials": [
+      "kıyma",
+      "soğan",
+      "biber",
+      "baharat"
+    ],
+    "description": "kıyma, ince doğranmış soğan, rendelenmiş biber ve baharatlar geniş bir kapta iyice yoğrulur. karışım en az 1 saat buzdolabında dinlendirilir. daha sonra küçük parçalar haline getirilip şişlere dizilir. mangal veya fırında yüksek ısıda pişirilerek sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "lahmacun",
+    "foodcategory": "türk mutfağı  lahmacun",
+    "city": "şanlıurfa",
+    "materials": [
+      "hamur",
+      "kıyma",
+      "soğan",
+      "biber"
+    ],
+    "description": "i̇nce açılmış hamur üzerine, baharatlarla tatlandırılmış kıyma, ince doğranmış soğan ve biber yerleştirilir. kenarların hafifçe kıvrılması sağlanır. yüksek sıcaklıkta fırında kısa sürede pişirilir, hamur çıtır çıtır olur. servis esnasında limon dilimleri ve maydanoz ile süslenir."
+  },
+  {
+    "foodname": "döner",
+    "foodcategory": "türk mutfağı  döner",
+    "city": "istanbul",
+    "materials": [
+      "et",
+      "baharat",
+      "yoğurt",
+      "lavaş"
+    ],
+    "description": "marine edilmiş dana veya kuzu eti, özel baharat karışımında birkaç saat dinlendirilir. et, dikey döner ocağında yavaşça pişirilir. pişen dış katman ince dilimler halinde kesilir. dilimler, taze lavaş ve yoğurt sosu eşliğinde servis edilir."
+  },
+  {
+    "foodname": "pilav",
+    "foodcategory": "türk mutfağı  pilav",
+    "city": "istanbul",
+    "materials": [
+      "pirinç",
+      "tereyağı",
+      "su",
+      "tuz"
+    ],
+    "description": "pirinci iyice yıkadıktan sonra, tereyağı ile orta ateşte kavrulur. ardından su ve tuz eklenir, tencere kapağı kapatılarak kısık ateşte demlenmeye bırakılır. pirinç suyunu çekene kadar pişirilir. piştikten sonra karıştırılarak sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "cacık",
+    "foodcategory": "türk mutfağı  sos",
+    "city": "istanbul",
+    "materials": [
+      "yoğurt",
+      "salatalık",
+      "nane",
+      "sarımsak"
+    ],
+    "description": "yoğurt pürüzsüz hale getirilir, salatalık rende veya küçük küpler halinde doğranır. ezilmiş sarımsak ve ince kıyılmış nane yoğurda eklenir. tüm malzemeler iyice karıştırılır. buzdolabında soğutulduktan sonra meze olarak servis edilir."
+  },
+  {
+    "foodname": "imambayıldı",
+    "foodcategory": "türk mutfağı  sebze yemeği",
+    "city": "i̇zmir",
+    "materials": [
+      "patlıcan",
+      "domates",
+      "soğan",
+      "sarımsak",
+      "zeytinyağı"
+    ],
+    "description": "patlıcanlar uzunlamasına kesilip, tuzla ovularak acısı alınır ve hafifçe kızartılır. ayrı bir tencerede soğan, sarımsak, domates ve zeytinyağı kavrulur. patlıcanlar bu karışıma eklenir, baharatlarla tatlandırılır. kısık ateşte, tüm malzemelerin birbirine karışması sağlanır ve ılık olarak servis edilir."
+  },
+  {
+    "foodname": "menemen",
+    "foodcategory": "türk mutfağı  kahvaltı",
+    "city": "i̇zmir",
+    "materials": [
+      "domates",
+      "yumurta",
+      "biber",
+      "soğan"
+    ],
+    "description": "soğan ve biber ince ince doğranarak zeytinyağında hafifçe kavrulur. ardından küp doğranmış domates eklenir ve yumuşayıncaya kadar pişirilir. yumurtalar kırılarak karıştırılır, baharatlarla tatlandırılır. tüm malzemeler birkaç dakika daha pişirildikten sonra sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "simit",
+    "foodcategory": "türk mutfağı  sokak lezzeti",
+    "city": "istanbul",
+    "materials": [
+      "un",
+      "susam",
+      "su",
+      "tuz"
+    ],
+    "description": "hamur, un, su ve tuz karışımından yoğrulur, mayalanması için bekletilir. şekil verildikten sonra halka formuna sokulur. üzerine susam serpilir ve taş fırında yüksek sıcaklıkta pişirilir. dışı çıtır, içi yumuşak simit olarak sunulur."
+  },
+  {
+    "foodname": "kurabiye",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "ankara",
+    "materials": [
+      "un",
+      "şeker",
+      "tereyağı",
+      "yumurta"
+    ],
+    "description": "un, şeker, tereyağı ve yumurta karıştırılarak yumuşak bir hamur elde edilir. hamur küçük parçalar halinde yuvarlanır ve fırın tepsisine dizilir. önceden ısıtılmış fırında, kenarları hafifçe kızarana kadar pişirilir. soğuduktan sonra çayla birlikte servis edilir."
+  },
+  {
+    "foodname": "kek",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "istanbul",
+    "materials": [
+      "un",
+      "şeker",
+      "yumurta",
+      "süt",
+      "kabartma tozu"
+    ],
+    "description": "tüm kuru malzemeler un, kabartma tozu ile yumurta, şeker ve süt iyice çırpılır. hamur kek kalıbına dökülür ve önceden ısıtılmış fırında kabarıp altın rengini alana kadar pişirilir. fırından çıkar çıkmaz dilimlenerek servis edilir. üzerine isteğe bağlı pudra şekeri serpilebilir."
+  },
+  {
+    "foodname": "baklava",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "gaziantep",
+    "materials": [
+      "yufka",
+      "ceviz",
+      "şerbet",
+      "tereyağı"
+    ],
+    "description": "i̇nce yufkalar teker teker açılır, her katına eritilmiş tereyağı sürülür. yufkalar arasında ceviz serpilir ve katlar dikkatlice üst üste konur. önceden hazırlanmış ılık şerbet yufkanın üzerine dökülür. fırında hafifçe kızartıldıktan sonra, şerbeti çekmesi için dinlendirilir ve dilimlenerek servis edilir."
+  },
+  {
+    "foodname": "döner dürüm",
+    "foodcategory": "türk mutfağı  sokak lezzeti",
+    "city": "istanbul",
+    "materials": [
+      "döner",
+      "lavaş",
+      "domates",
+      "soğan",
+      "maydanoz"
+    ],
+    "description": "döner et, döner ocağında yavaşça pişirildikten sonra ince dilimler halinde kesilir. taze lavaş ekmeği içerisine alınır. üzerine dilimlenmiş domates, soğan ve ince kıyılmış maydanoz eklenir. rulo şeklinde sarılarak sıcak servis edilir."
+  },
+  {
+    "foodname": "iskender kebap",
+    "foodcategory": "türk mutfağı  kebap",
+    "city": "bursa",
+    "materials": [
+      "döner",
+      "pilav",
+      "yoğurt",
+      "domates sosu"
+    ],
+    "description": "döner et dilimleri, pilavın üzerine yerleştirilir. üzerine bolca yoğurt dökülür ve domates sosu gezdirilir. tüm malzemeler sıcak olarak servis edilir. yanında tereyağlı lavaş ile tamamlanır."
+  },
+  {
+    "foodname": "su böreği",
+    "foodcategory": "türk mutfağı  börek",
+    "city": "istanbul",
+    "materials": [
+      "yufka",
+      "peynir",
+      "maydanoz",
+      "yumurta",
+      "süt"
+    ],
+    "description": "yufkalar, tereyağı ile yağlanır ve aralarına peynir, maydanoz, yumurta karışımı konur. katlar özenle üst üste dizilir ve süt ile ıslatılır. fırında hafifçe pişirilir, su böreğinin yumuşak dokusu korunur. sıcak olarak dilimlenip servis edilir."
+  },
+  {
+    "foodname": "pide",
+    "foodcategory": "türk mutfağı  pide",
+    "city": "trabzon",
+    "materials": [
+      "hamur",
+      "peynir",
+      "sucuk",
+      "yumurta"
+    ],
+    "description": "hamur, un ve su ile yoğrulur, mayalanması için dinlendirilir. i̇nce uzun şekilde açılır ve üzerine rendelenmiş peynir, dilimlenmiş sucuk ve yumurta kırılır. kenarları kıvrılarak kapatılır ve taş fırında yüksek sıcaklıkta pişirilir. sıcak olarak dilimlenip servis edilir."
+  },
+  {
+    "foodname": "çiğ köfte",
+    "foodcategory": "türk mutfağı  çiğ köfte",
+    "city": "şanlıurfa",
+    "materials": [
+      "ince bulgur",
+      "biber salçası",
+      "domates",
+      "yeşillik"
+    ],
+    "description": "i̇nce bulgur, biber salçası ve su ile yoğrulur. küçük domates parçaları ve doğranmış yeşillikler eklenir. tüm malzemeler iyice yoğrularak acı ve aromatik bir karışım elde edilir. yoğrulmuş çiğ köfte, marul yaprakları üzerinde şekillendirilerek servis edilir."
+  },
+  {
+    "foodname": "helva",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "gaziantep",
+    "materials": [
+      "un",
+      "tereyağı",
+      "şeker",
+      "su"
+    ],
+    "description": "un, eritilmiş tereyağı ile kavrulur, altın rengini alana kadar pişirilir. şeker ve su ilave edilerek sürekli karıştırılır. helva, kıvam alıp soğumaya bırakılmadan hemen sıcak servis edilir. üzerine isteğe bağlı fıstık serpilebilir."
+  },
+  {
+    "foodname": "ayran aşı çorbası",
+    "foodcategory": "türk mutfağı  çorba",
+    "city": "kayseri",
+    "materials": [
+      "yoğurt",
+      "nohut",
+      "bulgur",
+      "nane"
+    ],
+    "description": "yoğurt çırpılır ve içine haşlanmış nohut ile ince bulgur eklenir. karışım pürüzsüz hale gelene kadar çırpılır. ayran aşı çorbası, nane ve baharatlarla tatlandırılır. kısık ateşte birkaç dakika ısıtıldıktan sonra sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "etli ekmek",
+    "foodcategory": "türk mutfağı  ekmek",
+    "city": "konya",
+    "materials": [
+      "hamur",
+      "kıyma",
+      "soğan",
+      "biber"
+    ],
+    "description": "hamur, un ve su ile yoğrulur, ince açılır. üzerine baharatlı kıyma, ince doğranmış soğan ve biber serpilir. kenarları hafifçe kıvrılarak kapatılır ve fırında yüksek sıcaklıkta pişirilir. sıcak olarak dilimlenip servis edilir."
+  },
+  {
+    "foodname": "tepsi kebabı",
+    "foodcategory": "türk mutfağı  kebap",
+    "city": "adana",
+    "materials": [
+      "kıyma",
+      "patates",
+      "biber",
+      "domates"
+    ],
+    "description": "kıyma, patates, biber ve domates kat kat ince dilimler halinde kesilir. tüm malzemeler geniş bir tepsiye dizilir, aralarına baharatlar eklenir. fırında ağır ateşte pişirilir malzemeler birbirine karışıp lezzetli bir bütün oluşturur. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "fırın makarna",
+    "foodcategory": "türk mutfağı  makarna",
+    "city": "istanbul",
+    "materials": [
+      "makarna",
+      "kaşar peyniri",
+      "domates",
+      "beşamel"
+    ],
+    "description": "haşlanmış makarna, kaşar peyniri ve domates sosu ile karıştırılır. üzerine ev yapımı beşamel sos dökülür. tüm malzemeler fırın tepsisine yayılır ve yüksek sıcaklıkta pişirilir. fırından çıkar çıkmaz dilimlenip sıcak servis edilir."
+  },
+  {
+    "foodname": "kabak tatlısı",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "ankara",
+    "materials": [
+      "kabak",
+      "şeker",
+      "ceviz",
+      "tarçın"
+    ],
+    "description": "kabak dilimleri, şeker ile karıştırılarak tencerede pişirilir. yumuşayana kadar kısık ateşte demlendirilir. üzerine dövülmüş ceviz ve tarçın serpilir. soğuduktan sonra tatlı olarak servis edilir."
+  },
+  {
+    "foodname": "sütlaç",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "istanbul",
+    "materials": [
+      "pirinç",
+      "süt",
+      "şeker",
+      "vanilya"
+    ],
+    "description": "pirincin süt ve şeker ile birlikte tencereye alınarak kaynaması sağlanır. kısık ateşte süt çekene kadar pişirilir. fırınlanarak üzeri hafifçe kızartılır ve vanilya ile tatlandırılır. ilık veya soğuk olarak servis edilir."
+  },
+  {
+    "foodname": "revani",
+    "foodcategory": "türk mutfağı  tatlı",
+    "city": "istanbul",
+    "materials": [
+      "un",
+      "şeker",
+      "yumurta",
+      "irmik",
+      "limon"
+    ],
+    "description": "un, irmik, şeker ve yumurta karıştırılarak hamur elde edilir. hamur kalıba dökülüp önceden ısıtılmış fırında pişirilir. pişen revani üzerine limon şerbeti dökülür ve şerbetin çekmesi için dinlendirilir. dilimlenip servis edilir."
+  },
+  {
+    "foodname": "spagetti",
+    "foodcategory": "i̇talyantürk füzyonu",
+    "city": "istanbul",
+    "materials": [
+      "makarna",
+      "domates sosu",
+      "köfte",
+      "peynir"
+    ],
+    "description": "makarnalar haşlanır ve süzülür. köfte, baharatlarla hazırlanıp kızgın yağda kızartılır. domates sosu, haşlanmış makarna ve kızarmış köfte ile karıştırılır. üzerine rendelenmiş peynir eklenip sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "hamburger",
+    "foodcategory": "amerikan mutfağı",
+    "city": "new york",
+    "materials": [
+      "ekmek",
+      "köfte",
+      "peynir",
+      "domates",
+      "marul"
+    ],
+    "description": "izgara köfte, tuz ve karabiberle tatlandırılır. ekmekler hafifçe ısıtılır, altına taze marul, dilimlenmiş domates ve erimiş peynir konur. köfte ekmek arasına yerleştirilir. tüm malzemelerle birlikte sandviç şeklinde paketlenerek servis edilir."
+  },
+  {
+    "foodname": "falafel",
+    "foodcategory": "orta doğu mutfağı",
+    "city": "beirut",
+    "materials": [
+      "nohut",
+      "soğan",
+      "yeşillik",
+      "baharat"
+    ],
+    "description": "haşlanmış nohut, sarımsak, soğan ve yeşillikler blendırda püre haline getirilir. baharatlar eklenip yoğrulup küçük toplar oluşturulur. kızgın yağda altın rengi alana kadar kızartılır. dışı çıtır, içi yumuşak falafel meze olarak servis edilir."
+  },
+  {
+    "foodname": "taco",
+    "foodcategory": "meksika mutfağı",
+    "city": "mexico city",
+    "materials": [
+      "mısır ekmeği",
+      "et",
+      "domates",
+      "marul",
+      "peynir"
+    ],
+    "description": "mısır ekmeği hafifçe ısıtılır, içine baharatlı olarak pişirilmiş et yerleştirilir. üzerine taze doğranmış domates, marul ve rendelenmiş peynir eklenir. küçük porsiyonlar halinde katlanarak servis edilir. yanında salsa sosu ile tamamlanır."
+  },
+  {
+    "foodname": "kumpir",
+    "foodcategory": "türk mutfağı  sokak lezzeti",
+    "city": "istanbul",
+    "materials": [
+      "patates",
+      "salam",
+      "peynir",
+      "zeytin",
+      "kısır"
+    ],
+    "description": "büyük boy patates fırında iyice pişirilir, içi açılır. i̇çine dilimlenmiş salam, erimiş peynir, zeytin ve kısır eklenir. malzemeler iyice karıştırılarak doldurulur. sıcak olarak, yanına ek soslarla servis edilir."
+  },
+  {
+    "foodname": "lasagna",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "bologna",
+    "materials": [
+      "makarna",
+      "yemeklik et",
+      "beşamel sos",
+      "peynir"
+    ],
+    "description": "kat kat yerleştirilen haşlanmış makarna, sotelenmiş yemeklik et ve beşamel sos hazırlanır. üzerine kaşar peyniri rendelenir ve fırına verilir. fırında kabarınca dilimlenir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "kısır",
+    "foodcategory": "türk mutfağı  salata",
+    "city": "adana",
+    "materials": [
+      "bulgur",
+      "tuz",
+      "domates",
+      "salatalık",
+      "nane",
+      "limon"
+    ],
+    "description": "i̇nce çekilmiş bulgur, sıcak su ile ıslatılır. küçük doğranmış domates, salatalık, nane ve limon suyu eklenir. malzemeler iyice karıştırılarak soğuk olarak dinlendirilir. hafif ve ferahlatıcı bir salata olarak sunulur."
+  },
+  {
+    "foodname": "muffin",
+    "foodcategory": "amerikan mutfağı",
+    "city": "new york",
+    "materials": [
+      "un",
+      "yumurta",
+      "şeker",
+      "vanilya"
+    ],
+    "description": "kuru malzemeler un ve şeker, ıslak malzemeler yumurta ve vanilya ile karıştırılır. hamur muffin kalıplarına dökülür ve önceden ısıtılmış fırında kabarana kadar pişirilir. fırından çıkar çıkmaz soğumaya bırakılır. kahvaltı veya atıştırmalık olarak servis edilir."
+  },
+  {
+    "foodname": "sushi",
+    "foodcategory": "japon mutfağı",
+    "city": "tokyo",
+    "materials": [
+      "pirinç",
+      "balık",
+      "soya sosu",
+      "wasabi"
+    ],
+    "description": "sirkeli pirinç özenle hazırlanır ve soğutulur. taze balık dilimleri, pirincin üzerine dikkatlice yerleştirilir. deniz yosunu ile rulolar oluşturulur. wasabi ve soya sosu eşliğinde soğuk olarak servis edilir."
+  },
+  {
+    "foodname": "çörek",
+    "foodcategory": "türk mutfağı  hamur i̇şi",
+    "city": "ankara",
+    "materials": [
+      "un",
+      "yumurta",
+      "tuz",
+      "tereyağı"
+    ],
+    "description": "un, yumurta, tuz ve eritilmiş tereyağı ile yoğrulur, mayalanması için dinlendirilir. şekil verilip fırın tepsisine dizilir. önceden ısıtılmış fırında altın rengi alana kadar pişirilir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "gözleme",
+    "foodcategory": "türk mutfağı  gözleme",
+    "city": "aydın",
+    "materials": [
+      "yufka",
+      "peynir",
+      "ıspanak",
+      "zeytinyağı"
+    ],
+    "description": "yufka incecik açılır, içine rendelenmiş peynir ve ince doğranmış ıspanak konur. yufka ikiye katlanarak sac üzerinde veya tavada her iki yüzü de pişirilir. altın rengi alana kadar pişirildikten sonra sıcak olarak kesilip servis edilir."
+  },
+  {
+    "foodname": "yoğurtlu kabak",
+    "foodcategory": "türk mutfağı",
+    "city": "istanbul",
+    "materials": [
+      "kabak",
+      "yoğurt",
+      "sarımsak",
+      "zeytinyağı"
+    ],
+    "description": "kabaklar haşlanır ve dilimlenir, soğumaya bırakılır. yoğurt, ezilmiş sarımsak ve zeytinyağı karıştırılarak sos hazırlanır. kabak dilimleri yoğurtlu sos ile nazikçe harmanlanır. soğuk olarak meze şeklinde servis edilir."
+  },
+  {
+    "foodname": "börek ıspanak",
+    "foodcategory": "türk mutfağı  börek",
+    "city": "istanbul",
+    "materials": [
+      "yufka",
+      "peynir",
+      "ıspanak",
+      "tereyağı"
+    ],
+    "description": "yufkalar açılır ve üzerine ince doğranmış ıspanak, beyaz peynir ve eritilmiş tereyağı konur. katlar özenle sarılır ve rulo haline getirilir. dilimlenip fırında altın rengi alıncaya kadar pişirilir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "fırın tavuk",
+    "foodcategory": "türk mutfağı  ana yemek",
+    "city": "istanbul",
+    "materials": [
+      "tavuk",
+      "limon",
+      "soğan",
+      "patates"
+    ],
+    "description": "tavuk, limon suyu, soğan ve dilimlenmiş patates ile marine edilir. fırın tepsisine yerleştirilir ve önceden ısıtılmış fırında, altın rengi alana kadar pişirilir. piştikten sonra dilimlenip sıcak olarak servis edilir. yanında yeşil salata ile tamamlanır."
+  },
+  {
+    "foodname": "beşamel soslu karnıbahar",
+    "foodcategory": "türk mutfağı  sebze yemeği",
+    "city": "istanbul",
+    "materials": [
+      "karnıbahar",
+      "beşamel sos",
+      "tereyağı",
+      "peynir"
+    ],
+    "description": "karnıbahar küçük parçalara ayrılır ve haşlanır. ayrı bir sos tenceresinde beşamel sos hazırlanır içine eritilmiş tereyağı ve rendelenmiş peynir eklenir. haşlanmış karnıbahar, sos ile karıştırılarak fırın tepsisine dizilir. fırında hafifçe kızarana kadar pişirildikten sonra sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "mücver",
+    "foodcategory": "türk mutfağı  meze",
+    "city": "i̇zmir",
+    "materials": [
+      "kabak",
+      "un",
+      "yumurta",
+      "tuz",
+      "soğan"
+    ],
+    "description": "rendelenmiş kabak, un, yumurta ve ince doğranmış soğan karıştırılır. tuz ve baharatlarla tatlandırılır. karışım top şeklinde veya küçük yassı mücverler haline getirilir. kızgın yağda kızartılıp sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "şiş kebap",
+    "foodcategory": "türk mutfağı  kebap",
+    "city": "adana",
+    "materials": [
+      "et",
+      "biber",
+      "tuz",
+      "soğan"
+    ],
+    "description": "kıyılmış et, doğranmış biber ve soğan, tuz ve baharatlarla yoğrulur. karışım şişlere dizilir ve mangalda ya da fırında yüksek ısıda pişirilir. etin dışı kızarıp içi yumuşak kalması sağlanır. sıcak olarak lavaş ile servis edilir."
+  },
+  {
+    "foodname": "balık ekmek",
+    "foodcategory": "türk mutfağı  sokak lezzeti",
+    "city": "istanbul",
+    "materials": [
+      "balık",
+      "ekmek",
+      "soğan",
+      "limon"
+    ],
+    "description": "taze balık fileto, tuz ve baharatlarla marine edilir ve ızgarada pişirilir. ekmek hafifçe ısıtılır, üzerine ince dilimlenmiş soğan ve limon dilimleri konur. pişen balık ekmek arasına yerleştirilir. sıcak olarak sokak lezzeti şeklinde servis edilir."
+  },
+  {
+    "foodname": "közlenmiş patlıcan salatası",
+    "foodcategory": "türk mutfağı  salata",
+    "city": "adana",
+    "materials": [
+      "patlıcan",
+      "domates",
+      "soğan",
+      "zeytinyağı"
+    ],
+    "description": "patlıcanlar közde veya fırında kabukları yanacak şekilde pişirilir. soğuduktan sonra kabukları soyulur ve küp doğranır. domates ve soğan ince dilimlenir, zeytinyağı ile karıştırılır. közlenmiş patlıcan eklenip taze nane ile servis edilir."
+  },
+  {
+    "foodname": "etli pilav",
+    "foodcategory": "türk mutfağı  pilav",
+    "city": "istanbul",
+    "materials": [
+      "pirinç",
+      "et",
+      "soğan",
+      "biber"
+    ],
+    "description": "pirincin üzerine, önceden sotelenmiş et, soğan ve biber eklenir. tereyağı ile kavrulan pirinç, et suyunda demlenir. malzemeler iyice karışınca sıcak olarak servis edilir. yanında yoğurt ile tamamlanır."
+  },
+  {
+    "foodname": "spaghetti carbonara",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "rome",
+    "materials": [
+      "spagetti",
+      "pancetta",
+      "yumurta",
+      "parmesan",
+      "karabiber"
+    ],
+    "description": "spagetti haşlanır ve süzülür. kızartılmış pancetta, yumurta ve parmesan karışımı hızlıca karıştırılır. haşlanmış makarna bu karışıma eklenir, karabiber serpilir. kremasız, orijinal tarzda hemen servis edilir."
+  },
+  {
+    "foodname": "risotto",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "milan",
+    "materials": [
+      "arborio pirinci",
+      "beyaz şarap",
+      "parmesan",
+      "tereyağı",
+      "soğan",
+      "et suyu"
+    ],
+    "description": "arborio pirinci tereyağı ve ince doğranmış soğanla kavrulur. beyaz şarap eklenip alkolü uçurulduktan sonra, sıcak et veya sebze suyu yavaşça eklenir. pirinç kremamsı bir kıvama gelene kadar karıştırılarak pişirilir. son olarak parmesan rendesi ile servis edilir."
+  },
+  {
+    "foodname": "tiramisu",
+    "foodcategory": "i̇talyan mutfağı  tatlı",
+    "city": "venice",
+    "materials": [
+      "mascarpone",
+      "espresso",
+      "savoiardi bisküvileri",
+      "kakao tozu",
+      "yumurta",
+      "şeker"
+    ],
+    "description": "savoiardi bisküvileri kahveya batırılır, mascarpone karışımı yumurta, şeker ve mascarpone ile katmanlar oluşturulur. katlar, soğutucuda birkaç saat dinlendirilir. üzerine incecik kakao serpilir ve tatlı soğuk olarak sunulur."
+  },
+  {
+    "foodname": "caprese salad",
+    "foodcategory": "i̇talyan mutfağı  salata",
+    "city": "capri",
+    "materials": [
+      "domates",
+      "mozzarella",
+      "fesleğen",
+      "zeytinyağı",
+      "tuz"
+    ],
+    "description": "olgun domates ve taze mozzarella dilimlenir. fesleğen yaprakları taze olarak eklenir. zeytinyağı, tuz ve isteğe bağlı balsamik sirke ile tatlandırılır. taze ve soğuk olarak salata şeklinde servis edilir."
+  },
+  {
+    "foodname": "margherita pizza",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "naples",
+    "materials": [
+      "hamur",
+      "domates sosu",
+      "mozzarella",
+      "fesleğen"
+    ],
+    "description": "hamur yoğrulur, ince bir şekilde açılır ve domates sosu yayılır. mozzarella dilimleri ve fesleğen yaprakları eklenir. yüksek sıcaklıkta fırında kısa süre pişirilir. kenarları çıtır, içi yumuşak pizza olarak servis edilir."
+  },
+  {
+    "foodname": "bolognese",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "bologna",
+    "materials": [
+      "kıyma",
+      "domates sosu",
+      "soğan",
+      "havuç",
+      "kereviz",
+      "makarna"
+    ],
+    "description": "kıyma, soğan, havuç ve kereviz ince doğranarak kavrulur. domates sosu eklenip uzun süre pişirilir. kıyma sosu, haşlanmış makarna ile karıştırılır. üzerine parmesan serpilerek sıcak servis edilir."
+  },
+  {
+    "foodname": "fettuccine alfredo",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "rome",
+    "materials": [
+      "fettuccine",
+      "tereyağı",
+      "parmesan",
+      "krema"
+    ],
+    "description": "fettuccine makarna haşlanır, süzülür. tereyağı, krema ve parmesan, kısık ateşte karıştırılarak pürüzsüz bir sos hazırlanır. makarnalar bu sosla iyice karıştırılır. sıcak olarak hemen servis edilir."
+  },
+  {
+    "foodname": "minestrone soup",
+    "foodcategory": "i̇talyan mutfağı  çorba",
+    "city": "tuscany",
+    "materials": [
+      "sebzeler",
+      "fasulye",
+      "makarna",
+      "domates",
+      "zeytinyağı"
+    ],
+    "description": "mevsim sebzeleri, fasulye, makarna ve domates sosu büyük bir tencerede birleştirilir. zeytinyağı ve baharatlar eklenir. karışım, kısık ateşte lezzetlerin birbirine geçmesi için uzun süre pişirilir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "osso buco",
+    "foodcategory": "i̇talyan mutfağı",
+    "city": "milan",
+    "materials": [
+      "dana incik",
+      "sebzeler",
+      "beyaz şarap",
+      "et suyu",
+      "gremolata"
+    ],
+    "description": "dana incikleri, soğan, havuç ve kerevizle birlikte beyaz şarap ve et suyunda yavaşça pişirilir. et iyice yumuşadığında, gremolata limon kabuğu, sarımsak, maydanoz eklenir. güveçte uzun süre demlendikten sonra sıcak olarak servis edilir. yanında risotto önerilir."
+  },
+  {
+    "foodname": "panettone",
+    "foodcategory": "i̇talyan mutfağı  tatlı",
+    "city": "milan",
+    "materials": [
+      "un",
+      "şeker",
+      "yumurta",
+      "kuru meyveler",
+      "tereyağı"
+    ],
+    "description": "meyveli mayalı hamur yoğrulur ve uzun süre mayalanmaya bırakılır. hamur yüksek fırında pişirilir, dilimlenerek soğutulur. hafif nemli dokusu ve meyve parçaları ile tatlı bir lezzet sunar. çay veya kahve ile servis edilir."
+  },
+  {
+    "foodname": "quiche lorraine",
+    "foodcategory": "fransız mutfağı",
+    "city": "lorraine",
+    "materials": [
+      "hamur",
+      "yumurta",
+      "krema",
+      "bacon",
+      "peynir"
+    ],
+    "description": "hazırlanmış hamur kalıbı, ince dilimlenmiş bacon ile kaplanır. üzerine çırpılmış yumurta, krema ve rendelenmiş peynir dökülür. fırında altın rengini alana kadar pişirilir. ilık veya soğuk olarak dilimlenip servis edilir."
+  },
+  {
+    "foodname": "ratatouille",
+    "foodcategory": "fransız mutfağı  sebze yemeği",
+    "city": "nice",
+    "materials": [
+      "patlıcan",
+      "kabak",
+      "biber",
+      "domates",
+      "soğan",
+      "sarımsak",
+      "otlar"
+    ],
+    "description": "patlıcan, kabak, biber, domates, soğan ve sarımsak büyük parçalar halinde doğranır. zeytinyağında kısık ateşte uzun süre pişirilir. taze otlar ve baharatlar eklenir. sebzelerin doğal lezzetleri ön plana çıkarılarak sıcak servis edilir."
+  },
+  {
+    "foodname": "coq au vin",
+    "foodcategory": "fransız mutfağı",
+    "city": "burgundy",
+    "materials": [
+      "tavuk",
+      "kırmızı şarap",
+      "mantar",
+      "soğanlar",
+      "bacon",
+      "sarımsak"
+    ],
+    "description": "tavuk parçaları, kırmızı şarap ve et suyunda uzun süre kısık ateşte pişirilir. soğan, havuç, mantar ve sarımsak eklenir. etler iyice yumuşayınca, taze otlarla süslenir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "bouillabaisse",
+    "foodcategory": "fransız mutfağı  deniz ürünleri",
+    "city": "marseille",
+    "materials": [
+      "balık",
+      "kabuklu deniz ürünleri",
+      "domates",
+      "safran",
+      "rezene",
+      "sarımsak"
+    ],
+    "description": "farklı deniz ürünleri, domates, safran, rezene ve sarımsakla birlikte büyük bir tencerede kaynatılır. özellikle deniz ürünlerinin pişme süreleri dikkatle ayarlanır. zengin aromalı sos, deniz ürünleri ile harmanlanır. sıcak ve bol baharatlı olarak servis edilir."
+  },
+  {
+    "foodname": "crpes",
+    "foodcategory": "fransız mutfağı",
+    "city": "brittany",
+    "materials": [
+      "un",
+      "süt",
+      "yumurta",
+      "tereyağı",
+      "şeker"
+    ],
+    "description": "un, süt, yumurta ve eritilmiş tereyağı karıştırılarak ince bir hamur elde edilir. i̇nce tabaka halinde tavada her iki yüzü de kısa sürede pişirilir. i̇steğe bağlı tatlı veya tuzlu harç eklenir. hafif ve narin olarak servis edilir."
+  },
+  {
+    "foodname": "croissant",
+    "foodcategory": "fransız mutfağı",
+    "city": "paris",
+    "materials": [
+      "un",
+      "tereyağı",
+      "maya",
+      "şeker",
+      "tuz"
+    ],
+    "description": "mayalı hamur incecik açılır ve kat kat tereyağı eklenir. katlar oluşturularak sarılır, önceden ısıtılmış fırında altın rengini alana kadar pişirilir. çıtır dış yüzeyi ve yumuşak iç dokusu ile servis edilir. kahvaltıda ideal bir seçenek sunar."
+  },
+  {
+    "foodname": "steak frites",
+    "foodcategory": "fransız mutfağı",
+    "city": "paris",
+    "materials": [
+      "biftek",
+      "patates kızartması",
+      "tuz",
+      "karabiber"
+    ],
+    "description": "kalın kesilmiş steak, yüksek ısıda ızgarada veya tavada pişirilir. yanında ince kesilmiş patatesler kızartılır. et, tuz ve karabiberle tatlandırılır. sıcak olarak yanında mayonez veya sos ile servis edilir."
+  },
+  {
+    "foodname": "soupe  loignon",
+    "foodcategory": "fransız mutfağı",
+    "city": "paris",
+    "materials": [
+      "soğan",
+      "et suyu",
+      "krutonlar",
+      "gruyere peyniri"
+    ],
+    "description": "soğanlar ince dilimlenip, tereyağında karamelize edilir. karamelize soğanlar, et suyu ile birleştirilip kaynatılır. üzerine kruton ve rendelenmiş gruyere peyniri eklenir, fırında hafifçe kızartılır. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "tarte tatin",
+    "foodcategory": "fransız mutfağı  tatlı",
+    "city": "lamottebeuvron",
+    "materials": [
+      "elma",
+      "milföy hamuru",
+      "tereyağı",
+      "şeker"
+    ],
+    "description": "elmalar dilimlenip tereyağı ve şekerle birlikte karamelize edilir. karamelize elmalar, milföy hamurunun üzerine yerleştirilir. ters çevrilerek fırında pişirilir. soğuduktan sonra dilimlenip servis edilir."
+  },
+  {
+    "foodname": "cassoulet",
+    "foodcategory": "fransız mutfağı",
+    "city": "toulouse",
+    "materials": [
+      "beyaz fasulye",
+      "ördek",
+      "sosis",
+      "domuz eti"
+    ],
+    "description": "beyaz fasulye, ördek, sosis ve domuz eti uzun süre kısık ateşte pişirilir. tüm malzemeler derin bir tencerede birleştirilir. sos ve etler iyice karışıp yumuşayana kadar pişirilir. yoğun ve doyurucu olarak servis edilir."
+  },
+  {
+    "foodname": "nicoise salad",
+    "foodcategory": "fransız mutfağı  salata",
+    "city": "nice",
+    "materials": [
+      "ton balığı",
+      "yeşil fasulye",
+      "zeytin",
+      "patates",
+      "yumurta",
+      "ançuez"
+    ],
+    "description": "haşlanmış patates, yeşil fasulye ve yumurta dilimlenir. ton balığı ve ançuez eklenir, zeytinyağı ve limon sosuyla karıştırılır. zengin ve taze bir salata elde edilir. soğuk olarak servis edilir."
+  },
+  {
+    "foodname": "beef bourguignon",
+    "foodcategory": "fransız mutfağı",
+    "city": "burgundy",
+    "materials": [
+      "dana eti",
+      "kırmızı şarap",
+      "mantarlar",
+      "havuçlar",
+      "soğanlar",
+      "sarımsak"
+    ],
+    "description": "dana eti, kırmızı şarap ve et suyunda uzun süre kısık ateşte pişirilir. soğan, havuç, mantar ve sarımsak eklenir. etler iyice yumuşayınca, yoğun bir sos elde edilir. sıcak olarak pilav veya ekmekle servis edilir."
+  },
+  {
+    "foodname": "sole meunire",
+    "foodcategory": "fransız mutfağı",
+    "city": "paris",
+    "materials": [
+      "sole balığı",
+      "un",
+      "tereyağı",
+      "limon",
+      "maydanoz"
+    ],
+    "description": "sole balığı önceden unlanır ve tereyağında kızartılır. kızarmış balık, limon suyu ve maydanozla tatlandırılır. hızlıca servis edilmek üzere sıcak tutulur. yanında hafif garnitürlerle sunulur."
+  },
+  {
+    "foodname": "duck confit",
+    "foodcategory": "fransız mutfağı",
+    "city": "gascony",
+    "materials": [
+      "ördek",
+      "tuz",
+      "sarımsak",
+      "kekik",
+      "ördek yağı"
+    ],
+    "description": "önceden tuz, sarımsak ve kekik ile marine edilen ördek butları, kendi yağıyla düşük ısıda yavaşça pişirilir. et yumuşadığında dışı çıtırlaşır. yağı ile birlikte servis edilmek üzere dinlendirilir. geleneksel fransız tarzında sunulur."
+  },
+  {
+    "foodname": "paella",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "valencia",
+    "materials": [
+      "pirinç",
+      "safran",
+      "tavuk",
+      "deniz ürünleri",
+      "sebzeler"
+    ],
+    "description": "safranla renklendirilmiş pirinç, tavuk, deniz ürünleri ve sebzeler geniş bir tava veya paellera konur. yüksek ateşte, pirinç suyu çekene kadar pişirilir. malzemeler dengeli şekilde karışır. sıcak olarak, limon dilimleri eşliğinde servis edilir."
+  },
+  {
+    "foodname": "gazpacho",
+    "foodcategory": "i̇spanyol mutfağı  çorba",
+    "city": "andalusia",
+    "materials": [
+      "domates",
+      "salatalık",
+      "biber",
+      "sarımsak",
+      "zeytinyağı",
+      "sirke"
+    ],
+    "description": "domates, salatalık, biber ve sarımsak blendırda püre haline getirilir. zeytinyağı, sirke ve tuz eklenir. soğuk olarak iyice karıştırılır. ferahlatıcı ve serinletici çorba olarak servis edilir."
+  },
+  {
+    "foodname": "tortilla espaola",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "madrid",
+    "materials": [
+      "yumurta",
+      "patates",
+      "soğan",
+      "zeytinyağı"
+    ],
+    "description": "patates ve soğan ince dilimlenip zeytinyağında yumuşayıncaya kadar pişirilir. yumurtalar çırpılır, pişmiş sebzelerle karıştırılır. karışım tavada pişirilip kalın bir omlet kıvamı alır. dilimlenip sıcak veya oda sıcaklığında servis edilir."
+  },
+  {
+    "foodname": "croquetas",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "madrid",
+    "materials": [
+      "beşamel sos",
+      "jambon",
+      "peynir",
+      "galeta unu"
+    ],
+    "description": "beşamel soslu harç hazırlanır, içine doğranmış jambon ve peynir eklenir. küçük toplar haline getirilir ve önce una, sonra çırpılmış yumurtaya ve en son ekmek kırıntısına bulandırılır. kızgın yağda altın rengini alana kadar kızartılır. sıcak olarak meze şeklinde servis edilir."
+  },
+  {
+    "foodname": "churros",
+    "foodcategory": "i̇spanyol mutfağı  tatlı",
+    "city": "madrid",
+    "materials": [
+      "un",
+      "su",
+      "tuz",
+      "şeker",
+      "yağ"
+    ],
+    "description": "hamur, un, su, tuz ve şeker karışımından hazırlanır. uzun şeritler halinde sıkılır ve kızgın yağda çıtır çıtır kızartılır. üzerine ek şeker serpilir. sıcak olarak çikolata sosu eşliğinde servis edilir."
+  },
+  {
+    "foodname": "empanadas",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "buenos aires",
+    "materials": [
+      "hamur",
+      "sığır eti",
+      "soğan",
+      "zeytin",
+      "baharatlar"
+    ],
+    "description": "hamur yoğrulur, açılır ve içine baharatlı sote edilmiş kıyma, soğan ve zeytin eklenir. hamur yarım ay şeklinde kapatılır. önceden ısıtılmış fırında veya yağda kızartılarak pişirilir. sıcak olarak atıştırmalık şeklinde servis edilir."
+  },
+  {
+    "foodname": "fabada asturiana",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "asturias",
+    "materials": [
+      "beyaz fasulye",
+      "chorizo",
+      "morcilla",
+      "bacon"
+    ],
+    "description": "beyaz fasulyeler, chorizo, morcilla ve bacon uzun süre kısık ateşte pişirilir. malzemeler birbirine karışarak yoğun bir güveç oluşturur. baharatlarla tatlandırılır. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "pisto",
+    "foodcategory": "i̇spanyol mutfağı",
+    "city": "toledo",
+    "materials": [
+      "domates",
+      "kabak",
+      "patlıcan",
+      "biber",
+      "soğan",
+      "sarımsak"
+    ],
+    "description": "domates, kabak, patlıcan, biber, soğan ve sarımsak küçük küpler halinde doğranır. zeytinyağında kavrulur ve domatesle iyice pişirilir. sebzeler yumuşayıp sos kıvamına geldiğinde ocaktan alınır. ilık olarak, ekmekle birlikte servis edilir."
+  },
+  {
+    "foodname": "sangria",
+    "foodcategory": "i̇spanyol mutfağı  i̇çecek",
+    "city": "madrid",
+    "materials": [
+      "kırmızı şarap",
+      "meyveler",
+      "brendi",
+      "soda suyu"
+    ],
+    "description": "kırmızı şarap, dilimlenmiş taze meyveler ve brendi karıştırılır. üzerine soda suyu eklenir ve iyice soğutulur. buz eklenerek servis edilir. ferahlatıcı içecek olarak sunulur."
+  },
+  {
+    "foodname": "ceviche",
+    "foodcategory": "peruvian mutfağı",
+    "city": "lima",
+    "materials": [
+      "balık",
+      "misket limonu",
+      "soğan",
+      "acı biber",
+      "kişniş"
+    ],
+    "description": "taze balık küpler halinde kesilir ve bolca limon suyunda marine edilir. i̇nce dilimlenmiş soğan, doğranmış chili ve kişniş eklenir. karışım soğuk olarak birkaç dakika bekletilir. ferahlatıcı bir deniz mahsulü olarak servis edilir."
+  },
+  {
+    "foodname": "lomo saltado",
+    "foodcategory": "peruvian mutfağı",
+    "city": "lima",
+    "materials": [
+      "sığır eti",
+      "domates",
+      "soğanlar",
+      "kızarmış patates",
+      "soya sosu"
+    ],
+    "description": "i̇nce dilimlenmiş sığır eti, domates ve soğan yüksek ateşte hızlıca sotelenir. üzerine kızarmış patates kızartması eklenir. soya sosu ile tatlandırılarak karıştırılır. sıcak olarak pirinçle birlikte servis edilir."
+  },
+  {
+    "foodname": "aji de gallina",
+    "foodcategory": "peruvian mutfağı",
+    "city": "lima",
+    "materials": [
+      "tavuk",
+      "krema",
+      "ceviz",
+      "acı biber",
+      "ekmek"
+    ],
+    "description": "haşlanmış tavuk didiklenir ve ceviz, chili ve ekmek içi ile karıştırılır. kremsi bir sos elde edilene kadar pişirilir. baharatlarla tatlandırılır. sıcak olarak pilav veya ekmekle servis edilir."
+  },
+  {
+    "foodname": "anticuchos",
+    "foodcategory": "peruvian mutfağı",
+    "city": "lima",
+    "materials": [
+      "sığır kalbi",
+      "sirke",
+      "sarımsak",
+      "baharatlar"
+    ],
+    "description": "et kalbi, sirke, sarımsak ve baharatlarla marine edilir. şişlere dizilip mangalda yüksek ateşte pişirilir. dış kısmı hafif kızarıp içi yumuşak kalır. yanında sosla sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "pisco sour",
+    "foodcategory": "peruvian mutfağı  i̇çecek",
+    "city": "lima",
+    "materials": [
+      "pisco",
+      "misket limonu",
+      "yumurta akı",
+      "bitters",
+      "şeker"
+    ],
+    "description": "pisco, taze lime suyu, yumurta akı ve şeker buzla karıştırılır. karışım pürüzsüz bir kıvam alır. birkaç damla bitters eklenir. soğuk olarak kokteyl bardağında servis edilir."
+  },
+  {
+    "foodname": "feijoada",
+    "foodcategory": "brezilya mutfağı",
+    "city": "rio de janeiro",
+    "materials": [
+      "siyah fasulye",
+      "domuz eti",
+      "sığır eti",
+      "sosis",
+      "sarımsak"
+    ],
+    "description": "siyah fasulye, çeşitli domuz eti, sosis ve sığır eti uzun süre kaynatılır. tüm malzemeler bir araya getirilip yoğun bir güveç haline gelir. baharatlarla tatlandırılır. sıcak olarak pirinçle birlikte servis edilir."
+  },
+  {
+    "foodname": "moqueca",
+    "foodcategory": "brezilya mutfağı",
+    "city": "bahia",
+    "materials": [
+      "balık",
+      "hindistancevizi sütü",
+      "domates",
+      "biber",
+      "kişniş"
+    ],
+    "description": "balık ve deniz ürünleri, hindistancevizi sütü, domates ve biber ile birlikte kısık ateşte pişirilir. malzemeler yavaşça birbirine karışır. taze kişniş ile süslenir. sıcak olarak geleneksel brezilya usulü servis edilir."
+  },
+  {
+    "foodname": "churrasco",
+    "foodcategory": "brezilya mutfağı",
+    "city": "rio de janeiro",
+    "materials": [
+      "sığır eti",
+      "tuz",
+      "sarımsak"
+    ],
+    "description": "kalın kesilmiş sığır eti, tuz ve ezilmiş sarımsak ile marine edilir. izgarada yüksek ateşte hızlıca pişirilir. dış kısmı kızarırken içi sulu kalır. dilimlenip sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "coxinha",
+    "foodcategory": "brezilya mutfağı  sokak lezzeti",
+    "city": "so paulo",
+    "materials": [
+      "tavuk",
+      "hamur",
+      "krem peynir",
+      "galeta unu"
+    ],
+    "description": "tavuk eti haşlanıp didiklenir, krem peynirle karıştırılır. hamur hazırlanır, tavuk karışımı içine konur. küçük koni şeklinde kapatılır, ekmek kırıntısına bulandıktan sonra kızgın yağda kızartılır. sıcak olarak atıştırmalık şeklinde servis edilir."
+  },
+  {
+    "foodname": "brigadeiro",
+    "foodcategory": "brezilya mutfağı  tatlı",
+    "city": "brazil",
+    "materials": [
+      "kondens süt",
+      "kakao tozu",
+      "tereyağı",
+      "çikolata serpiştirmesi"
+    ],
+    "description": "kondens sütü, kakao ve tereyağı kısık ateşte sürekli karıştırılarak yoğunlaştırılır. karışım küçük toplar haline getirilir. toplar, çikolata serpiştirilerek süslenir. oda sıcaklığında tatlı olarak servis edilir."
+  },
+  {
+    "foodname": "quinoa salad",
+    "foodcategory": "sağlıklı yemek",
+    "city": "global",
+    "materials": [
+      "kinoa",
+      "sebzeler",
+      "limon sosu"
+    ],
+    "description": "pişmiş kinoa, doğranmış taze sebzeler ile karıştırılır. limon suyu, zeytinyağı ve tuzdan oluşan sos eklenir. tüm malzemeler iyice harmanlanır. ferahlatıcı ve besleyici salata olarak servis edilir."
+  },
+  {
+    "foodname": "hummus",
+    "foodcategory": "orta doğu mutfağı",
+    "city": "beirut",
+    "materials": [
+      "nohut",
+      "tahin",
+      "sarımsak",
+      "limon",
+      "zeytinyağı"
+    ],
+    "description": "haşlanmış nohut, tahin, sarımsak ve limon suyu blendırda püre haline getirilir. zeytinyağı eklenir ve iyice karıştırılır. kıvam ayarı yapılır. soğuk olarak meze şeklinde servis edilir."
+  },
+  {
+    "foodname": "shakshuka",
+    "foodcategory": "orta doğu mutfağı",
+    "city": "tel aviv",
+    "materials": [
+      "domates",
+      "yumurta",
+      "biber",
+      "soğan",
+      "sarımsak",
+      "baharatlar"
+    ],
+    "description": "domates, biber, soğan ve sarımsak zeytinyağında kavrulur. baharatlar eklenir ve sos kıvamına gelene kadar pişirilir. yumurtalar sosun içine kırılır ve hafifçe pişirilir. sıcak olarak ekmekle servis edilir."
+  },
+  {
+    "foodname": "baba ganoush",
+    "foodcategory": "orta doğu mutfağı",
+    "city": "beirut",
+    "materials": [
+      "patlıcan",
+      "tahin",
+      "sarımsak",
+      "limon",
+      "zeytinyağı"
+    ],
+    "description": "patlıcan közde veya fırında pişirilip kabuğu soyulur. i̇ç kısmı ezilerek tahin, sarımsak ve limon suyu ile karıştırılır. zeytinyağı eklenir ve pürüzsüz hale getirilir. soğuk olarak meze şeklinde servis edilir."
+  },
+  {
+    "foodname": "fattoush",
+    "foodcategory": "orta doğu mutfağı  salata",
+    "city": "beirut",
+    "materials": [
+      "karışık yeşillikler",
+      "domates",
+      "salatalık",
+      "kızarmış pita ekmekleri",
+      "sumak"
+    ],
+    "description": "karışık yeşillikler, doğranmış domates ve salatalık hazırlanır. kızarmış pita ekmekleri ufalanır. tüm malzemeler zeytinyağı, limon suyu ve sumak ile karıştırılır. taze olarak servis edilir."
+  },
+  {
+    "foodname": "mansaf",
+    "foodcategory": "orta doğu mutfağı",
+    "city": "amman",
+    "materials": [
+      "kuzu eti",
+      "yoğurt sosu",
+      "pirinç",
+      "badem"
+    ],
+    "description": "kuzu eti, baharatlarla marine edilip uzun süre yavaşça pişirilir. yoğurt sosu hazırlanır ve et üzerine dökülür. pilavla birlikte badem serpilerek servis edilir. geleneksel orta doğu yemeği olarak sunulur."
+  },
+  {
+    "foodname": "tagine",
+    "foodcategory": "fas mutfağı",
+    "city": "marrakech",
+    "materials": [
+      "et kuzutavuk",
+      "kurutulmuş meyveler",
+      "baharatlar",
+      "sebzeler"
+    ],
+    "description": "et ve sebzeler, baharatlı bir sos içinde geleneksel tagine kabında yavaşça pişirilir. kurutulmuş meyveler eklenir. sos ve etin iyice bütünleşmesi sağlanır. sıcak olarak kuskus veya ekmek ile servis edilir."
+  },
+  {
+    "foodname": "couscous",
+    "foodcategory": "fas mutfağı",
+    "city": "marrakech",
+    "materials": [
+      "irmik",
+      "sebzeler",
+      "et",
+      "baharatlar"
+    ],
+    "description": "i̇nce irmik, sıcak su ile buharda pişirilir. sebzeler ve et, baharatlarla sotelenir. pişmiş kuskus ile karıştırılır. taze otlar eklenip sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "harira",
+    "foodcategory": "fas mutfağı",
+    "city": "rabat",
+    "materials": [
+      "domatesler",
+      "mercimek",
+      "nohut",
+      "et",
+      "baharatlar"
+    ],
+    "description": "domates, mercimek, nohut ve et kemikleri büyük tencerede birleştirilir. baharatlarla tatlandırılır ve uzun süre kaynatılır. sos yoğunlaşınca sıcak olarak servis edilir. özellikle ramazan ayında tercih edilir."
+  },
+  {
+    "foodname": "pastilla",
+    "foodcategory": "fas mutfağı",
+    "city": "fez",
+    "materials": [
+      "yufka",
+      "güvercin veya tavuk",
+      "badem",
+      "baharatlar"
+    ],
+    "description": "i̇nce yufkalar, et veya güvercin eti, badem ve baharat karışımı ile katmanlanır. tatlı ve tuzlu unsurlar dengelenir. fırında hafifçe kızarana kadar pişirilir. toz şeker ve tarçınla süslenip servis edilir."
+  },
+  {
+    "foodname": "biryani",
+    "foodcategory": "hint mutfağı",
+    "city": "hyderabad",
+    "materials": [
+      "basmati pirinci",
+      "et",
+      "baharatlar",
+      "yoğurt"
+    ],
+    "description": "basmati pirinci, baharatlı et ve yoğurt ile kat kat pişirilir. önceden marine edilmiş et, pirincin içine karıştırılır. düşük ateşte demlendirilir. zengin aromalı bir pilav olarak servis edilir."
+  },
+  {
+    "foodname": "butter chicken",
+    "foodcategory": "hint mutfağı",
+    "city": "delhi",
+    "materials": [
+      "tavuk",
+      "domates",
+      "krema",
+      "baharatlar",
+      "tereyağı"
+    ],
+    "description": "tavuk, yoğurt ve baharatlarla marine edilir, ardından domates ve krema ile birlikte ağır ateşte pişirilir. tereyağı ile zenginleştirilir. sosu koyu ve kremamsı olur. sıcak olarak naan ekmeğiyle servis edilir."
+  },
+  {
+    "foodname": "palak paneer",
+    "foodcategory": "hint mutfağı",
+    "city": "punjab",
+    "materials": [
+      "ıspanak",
+      "peynir",
+      "sarımsak",
+      "zencefil",
+      "krema"
+    ],
+    "description": "ispanak haşlanıp püre haline getirilir. paneer küp olarak kızartılır. ispanak püresi, sarımsak, zencefil ve krema ile karıştırılır. baharatlarla tatlandırılıp sıcak servis edilir."
+  },
+  {
+    "foodname": "rogan josh",
+    "foodcategory": "hint mutfağı",
+    "city": "kashmir",
+    "materials": [
+      "kuzu eti",
+      "yoğurt",
+      "baharatlar",
+      "sarımsak",
+      "zencefil"
+    ],
+    "description": "kuzu eti, yoğurt ve baharatlarla marine edilir. et, tencerede uzun süre ağır ateşte pişirilir. sarımsak ve zencefil aroması yoğunlaşır. geleneksel şekilde pilav veya ekmekle servis edilir."
+  },
+  {
+    "foodname": "samosa",
+    "foodcategory": "hint mutfağı  sokak lezzeti",
+    "city": "mumbai",
+    "materials": [
+      "un",
+      "patates",
+      "bezelye",
+      "baharatlar",
+      "yağ"
+    ],
+    "description": "hamur ince açılır, içine haşlanmış patates, bezelye ve baharat karışımı konur. üçgen şeklinde katlanıp mühürlenir. kızgın yağda çıtır çıtır kızartılır. sıcak olarak chutney eşliğinde servis edilir."
+  },
+  {
+    "foodname": "chole bhature",
+    "foodcategory": "hint mutfağı  sokak lezzeti",
+    "city": "delhi",
+    "materials": [
+      "nohut",
+      "un",
+      "baharatlar",
+      "yoğurt"
+    ],
+    "description": "baharatlı nohut yahnisi hazırlanır, haşlanır ve püre haline getirilir. mayalı hamur, incecik açılır ve kızgın yağda kızartılır. nohut yahnisi ile birlikte sıcak servis edilir. sokak lezzeti olarak popülerdir."
+  },
+  {
+    "foodname": "dosa",
+    "foodcategory": "hint mutfağı",
+    "city": "chennai",
+    "materials": [
+      "pirinç",
+      "mercimek",
+      "baharatlar"
+    ],
+    "description": "fermente pirinç ve mercimek karışımı ince bir hamur oluşturur. tavada ince krepler şeklinde yayılır ve altın rengi olana kadar pişirilir. i̇nce ve çıtır dosa, çeşitli dolgu malzemeleriyle servis edilir. geleneksel güney hindistan kahvaltısıdır."
+  },
+  {
+    "foodname": "idli",
+    "foodcategory": "hint mutfağı",
+    "city": "chennai",
+    "materials": [
+      "pirinç",
+      "mercimek",
+      "fermantasyon"
+    ],
+    "description": "pirinç ve mercimek, uzun süre fermente edilerek hamur haline getirilir. buharda pişirilip yumuşak ve süngerimsi idli elde edilir. hafif ve besleyici olan idli, genellikle chutney ve sambar ile servis edilir. geleneksel güney hindistan kahvaltısıdır."
+  },
+  {
+    "foodname": "vada pav",
+    "foodcategory": "hint mutfağı  sokak lezzeti",
+    "city": "mumbai",
+    "materials": [
+      "patates köftesi",
+      "ekmek çöreği",
+      "çutney",
+      "baharatlar"
+    ],
+    "description": "baharatlı patates köftesi hazırlanır, kızgın yağda kızartılır. ekmeğin arasına yerleştirilir ve yeşil çutney ile tatlandırılır. hızlıca elden geçirilip sokak lezzeti olarak sunulur. mumbainin popüler atıştırmalığıdır."
+  },
+  {
+    "foodname": "pani puri",
+    "foodcategory": "hint mutfağı  sokak lezzeti",
+    "city": "mumbai",
+    "materials": [
+      "irmik",
+      "patates",
+      "nohut",
+      "hindi ekşisi suyu"
+    ],
+    "description": "küçük çıtır hamur topları hazırlanır, içine haşlanmış patates ve nohut doldurulur. üzerine hindi ekşisi suyu dökülür. servis öncesi biraz bekletilip lezzetlerin karışması sağlanır. hızlıca tüketilerek atıştırmalık olarak sunulur."
+  },
+  {
+    "foodname": "gulab jamun",
+    "foodcategory": "hint mutfağı  tatlı",
+    "city": "lucknow",
+    "materials": [
+      "süt katıları",
+      "şerbet",
+      "kakule"
+    ],
+    "description": "süt tozu ve irmik karışımından küçük toplar yapılır, kızgın yağda altın rengini alana kadar kızartılır. ardından, hafif ılık şerbetin içine batırılır. şerbeti iyice çekene kadar bekletilir. tatlı olarak soğuk veya ılık servis edilir."
+  },
+  {
+    "foodname": "jalebi",
+    "foodcategory": "hint mutfağı  tatlı",
+    "city": "delhi",
+    "materials": [
+      "un",
+      "yoğurt",
+      "şerbet",
+      "safran"
+    ],
+    "description": "mayalı hamur, kıvrılarak uzun şeritler halinde sıkılır. kızgın yağda kızartılır, ardından sıcak şerbetin içine batırılır. şerbeti çekip parlak bir yüzey kazandıktan sonra servis edilir. tatlı, sıcak veya oda sıcaklığında sunulur."
+  },
+  {
+    "foodname": "bakso",
+    "foodcategory": "endonezya mutfağı",
+    "city": "jakarta",
+    "materials": [
+      "et topları",
+      "erişte",
+      "et suyu",
+      "sebzeler"
+    ],
+    "description": "et topları hazırlanır ve haşlanmak üzere kaynar suya atılır. noodle ve sebzelerle birlikte yoğun bir çorba oluşturulur. baharatlarla tatlandırılır, tüm malzemeler karıştırılır. sıcak çorba olarak servis edilir."
+  },
+  {
+    "foodname": "nasi goreng",
+    "foodcategory": "endonezya mutfağı",
+    "city": "jakarta",
+    "materials": [
+      "pirinç",
+      "yumurta",
+      "sebzeler",
+      "tavuk",
+      "tatlı soya sosu"
+    ],
+    "description": "haşlanmış pirinç, tavada yumurta, sebze ve tavuk ile yüksek ateşte hızlıca kızartılır. tatlı soya sosu ile tatlandırılır. tüm malzemeler iyice harmanlanır. sıcak olarak, garnitürlerle servis edilir."
+  },
+  {
+    "foodname": "satay",
+    "foodcategory": "endonezya mutfağı",
+    "city": "jakarta",
+    "materials": [
+      "et",
+      "yer fıstığı sosu",
+      "baharatlar"
+    ],
+    "description": "marine edilmiş et şişlere dizilir ve mangalda pişirilir. yanında yer fıstığı sosu ile servis edilir. etin dışı kızarıp içi yumuşak kalır. sokak lezzeti olarak sunulur."
+  },
+  {
+    "foodname": "gadogado",
+    "foodcategory": "endonezya mutfağı",
+    "city": "jakarta",
+    "materials": [
+      "sebzeler",
+      "yer fıstığı sosu",
+      "tofu",
+      "tempeh"
+    ],
+    "description": "haşlanmış sebzeler, tofu ve tempeh, zengin yer fıstığı sosuyla karıştırılır. malzemeler iyice harmanlanır. soğuk veya oda sıcaklığında meze olarak servis edilir. taze yeşilliklerle süslenir."
+  },
+  {
+    "foodname": "rendang",
+    "foodcategory": "endonezya mutfağı",
+    "city": "padang",
+    "materials": [
+      "sığır eti",
+      "hindistancevizi sütü",
+      "baharatlar"
+    ],
+    "description": "sığır eti, hindistancevizi sütü ve baharatlarla uzun süre kısık ateşte pişirilir. et iyice yumuşadığında yoğun bir sos oluşur. karışım geleneksel yöntemle demlenir. sıcak olarak pilav ile servis edilir."
+  },
+  {
+    "foodname": "pho",
+    "foodcategory": "vietnam mutfağı",
+    "city": "hanoi",
+    "materials": [
+      "et suyu",
+      "pirinç erişteleri",
+      "taze otlar",
+      "sığır eti"
+    ],
+    "description": "yoğun et suyu, baharatlar ve kemiklerle uzun süre kaynatılır. pirinç erişteleri haşlanır, taze otlar ve ince dilimlenmiş sığır eti eklenir. tüm malzemeler çabukca servis edilir. sıcak olarak, yanında lime ile sunulur."
+  },
+  {
+    "foodname": "bnh m",
+    "foodcategory": "vietnam mutfağı",
+    "city": "saigon",
+    "materials": [
+      "baget ekmeği",
+      "turşu sebzeler",
+      "domuz eti",
+      "pate",
+      "kişniş"
+    ],
+    "description": "taze baget ekmeği, marine edilmiş domuz eti ve pate ile doldurulur. turşu sebzeler eklenir, taze kişnişle süslenir. ekmek çıtır dış yüzeye sahip olacak şekilde servis edilir. hızlı bir sandviç alternatifi sunar."
+  },
+  {
+    "foodname": "bun cha",
+    "foodcategory": "vietnam mutfağı",
+    "city": "hanoi",
+    "materials": [
+      "ızgara domuz eti",
+      "erişte",
+      "taze otlar",
+      "balık sosu"
+    ],
+    "description": "izgara domuz eti, haşlanmış pirinç erişteleri ve taze otlar ile servis edilir. balık sosu ile tatlandırılır. tüm malzemeler hızlıca karıştırılır. sıcak ve ferahlatıcı olarak sunulur."
+  },
+  {
+    "foodname": "spring rolls",
+    "foodcategory": "vietnam mutfağı",
+    "city": "hanoi",
+    "materials": [
+      "pirinç kağıdı",
+      "sebzeler",
+      "karides veya domuz eti",
+      "taze otlar"
+    ],
+    "description": "taze sebze ve isteğe bağlı karides veya domuz eti, ince dilimlenir. pirinç kağıdı ıslatılır, içine harç konur ve sıkıca sarılır. hafifçe kızartılarak çıtır hale getirilir. taze otlar eşliğinde servis edilir."
+  },
+  {
+    "foodname": "kimchi",
+    "foodcategory": "kore mutfağı",
+    "city": "seoul",
+    "materials": [
+      "napa lahanası",
+      "acı biber",
+      "sarımsak",
+      "zencefil",
+      "tuz"
+    ],
+    "description": "napa lahanası, tuz ile marine edilir ve fermente olmaya bırakılır. sarımsak, zencefil ve acı biber ile tatlandırılır. fermente süreci tamamlandığında, geleneksel şekilde servis edilir. yanında diğer kore yemekleriyle sunulur."
+  },
+  {
+    "foodname": "bibimbap",
+    "foodcategory": "kore mutfağı",
+    "city": "seoul",
+    "materials": [
+      "pirinç",
+      "sebzeler",
+      "sığır eti",
+      "yumurta",
+      "acı biber ezmesi"
+    ],
+    "description": "haşlanmış pirinç üzerine sotelenmiş sebzeler, ince dilimlenmiş sığır eti ve yumurta yerleştirilir. acı biber ezmesi eklenir. tüm malzemeler karıştırılarak servis edilir. geleneksel kore sunumuyla sıcak olarak sunulur."
+  },
+  {
+    "foodname": "bulgogi",
+    "foodcategory": "kore mutfağı",
+    "city": "seoul",
+    "materials": [
+      "sığır eti",
+      "soya sosu",
+      "şeker",
+      "sarımsak",
+      "susam yağı"
+    ],
+    "description": "i̇nce dilimlenmiş sığır eti, soya sosu, şeker, sarımsak ve susam yağı ile marine edilir. kısa süreli ızgarada veya tavada hızlıca pişirilir. etin lezzeti yoğunlaşır. sıcak olarak, yanında pirinçle servis edilir."
+  },
+  {
+    "foodname": "japchae",
+    "foodcategory": "kore mutfağı",
+    "city": "seoul",
+    "materials": [
+      "cam erişte",
+      "sığır eti",
+      "sebzeler",
+      "soya sosu"
+    ],
+    "description": "cam erişte haşlanır ve süzülür. i̇nce doğranmış sığır eti ve sebzeler, soya sosu ile sotelenir. erişte ve diğer malzemeler karıştırılır. taze ve hafif olarak servis edilir."
+  },
+  {
+    "foodname": "tteokbokki",
+    "foodcategory": "kore mutfağı",
+    "city": "seoul",
+    "materials": [
+      "pirinç kekleri",
+      "acı biber ezmesi",
+      "balık kekleri",
+      "yeşil soğan"
+    ],
+    "description": "pirinç kekleri, acı biber ezmesi sosunda pişirilir. balık kekleri ve ince doğranmış yeşil soğan eklenir. sos yoğunlaşana kadar pişirilir. sokak lezzeti olarak sıcak servis edilir."
+  },
+  {
+    "foodname": "pierogi",
+    "foodcategory": "polonya mutfağı",
+    "city": "krakow",
+    "materials": [
+      "un",
+      "patates",
+      "peynir",
+      "soğan",
+      "tereyağı"
+    ],
+    "description": "hamur, un ve su ile hazırlanır, küçük kesitler haline getirilir. patates ve peynir dolgusuyla doldurulur. haşlanır ve ardından tereyağında kızartılır. sıcak olarak, ekşi krema ile servis edilir."
+  },
+  {
+    "foodname": "bigos",
+    "foodcategory": "polonya mutfağı",
+    "city": "warsaw",
+    "materials": [
+      "ekşi lahana",
+      "et",
+      "mantarlar",
+      "domatesler"
+    ],
+    "description": "lahana, et, mantar ve domates uzun süre kısık ateşte pişirilir. tüm malzemeler iyice karışarak yoğun bir güveç oluşturur. baharatlarla tatlandırılır. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "kielbasa",
+    "foodcategory": "polonya mutfağı",
+    "city": "krakow",
+    "materials": [
+      "sosis",
+      "domuz eti",
+      "sarımsak",
+      "baharatlar"
+    ],
+    "description": "domuz eti, sarımsak ve baharatlarla hazırlanan sosis, şekil verildikten sonra ızgarada pişirilir. dışı kızarana kadar yüksek ateşte tutulur. dilimlenip sıcak olarak servis edilir. yanında hardal veya ekmekle sunulur."
+  },
+  {
+    "foodname": "placki ziemniaczane",
+    "foodcategory": "polonya mutfağı",
+    "city": "warsaw",
+    "materials": [
+      "patates",
+      "yumurta",
+      "un",
+      "soğan"
+    ],
+    "description": "rendelenmiş patates, yumurta, un ve ince doğranmış soğan karıştırılır. karışımdan ince krep benzeri yassı kekler oluşturulur. kızgın yağda her iki tarafı da altın rengini alana kadar kızartılır. sıcak olarak yoğurt veya sosla servis edilir."
+  },
+  {
+    "foodname": "schnitzel",
+    "foodcategory": "alman mutfağı",
+    "city": "berlin",
+    "materials": [
+      "dana veya domuz eti",
+      "ekmek kırıntıları",
+      "yumurta",
+      "un"
+    ],
+    "description": "dana veya domuz eti ince dilimlenir, dövülerek yassılaştırılır. önce una, sonra çırpılmış yumurtaya ve son olarak ekmek kırıntılarına bulanır. kızgın yağda altın rengini alana kadar kızartılır. limon dilimleri ile sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "bratwurst",
+    "foodcategory": "alman mutfağı",
+    "city": "berlin",
+    "materials": [
+      "sosis",
+      "domuz eti",
+      "baharatlar"
+    ],
+    "description": "baharatlı domuz eti sosisleri, ızgarada veya tavada pişirilir. dışı kızarıp içi sulu kalır. hafifçe dilimlenip sıcak olarak servis edilir. yanında hardal ve ekmekle sunulur."
+  },
+  {
+    "foodname": "sauerkraut",
+    "foodcategory": "alman mutfağı",
+    "city": "berlin",
+    "materials": [
+      "lahana",
+      "tuz"
+    ],
+    "description": "lahana ince ince doğranır ve tuzla ovularak fermente olmaya bırakılır. fermente süreci tamamlandığında, ekşi ve çıtır bir garnitür elde edilir. soğuk olarak sosis veya et yemeklerinin yanında servis edilir."
+  },
+  {
+    "foodname": "pretzel",
+    "foodcategory": "alman mutfağı",
+    "city": "munich",
+    "materials": [
+      "un",
+      "su",
+      "maya",
+      "tuz"
+    ],
+    "description": "mayalı hamur yoğrulur, şekil verilir ve pretzel formuna sokulur. üzerine tuz serpilir ve fırında pişirilir. dışı çıtır, içi yumuşak olarak elde edilir. sıcak veya oda sıcaklığında servis edilir."
+  },
+  {
+    "foodname": "wiener schnitzel",
+    "foodcategory": "avusturya mutfağı",
+    "city": "vienna",
+    "materials": [
+      "dana eti",
+      "ekmek kırıntıları",
+      "yumurta",
+      "un",
+      "limon"
+    ],
+    "description": "dana eti ince dilimlenir, dövülerek inceltilir. önce una, sonra yumurtaya ve son olarak ekmek kırıntılarına bulanır. kızgın yağda kızarana kadar pişirilir. limon dilimleri eşliğinde sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "goulash",
+    "foodcategory": "macar mutfağı",
+    "city": "budapest",
+    "materials": [
+      "dana eti",
+      "paprika",
+      "soğanlar",
+      "domatesler"
+    ],
+    "description": "dana eti, paprika, soğan ve domates ile geniş bir tencerede uzun süre pişirilir. et yumuşadığında yoğun bir sos oluşur. baharatlarla tatlandırılır. sıcak olarak pilav veya ekmekle servis edilir."
+  },
+  {
+    "foodname": "chicken paprikash",
+    "foodcategory": "macar mutfağı",
+    "city": "budapest",
+    "materials": [
+      "tavuk",
+      "paprika",
+      "krema",
+      "soğan"
+    ],
+    "description": "tavuk parçaları, soğan ve paprika ile kavrulur. üzerine krema eklenir ve kısık ateşte pişirilir. sos koyulaştıktan sonra sıcak olarak servis edilir. yanında erişte önerilir."
+  },
+  {
+    "foodname": "dobos torte",
+    "foodcategory": "macar mutfağı  tatlı",
+    "city": "budapest",
+    "materials": [
+      "sünger kek",
+      "çikolatalı tereyağı kreması",
+      "karamel"
+    ],
+    "description": "i̇nce katlar halinde sünger kek dilimleri hazırlanır. aralarına yoğun çikolatalı krema sürülür. üstüne ince karamel tabakası dökülerek tamamlanır. dilimlenip soğuk olarak servis edilir."
+  },
+  {
+    "foodname": "sacher torte",
+    "foodcategory": "avusturya mutfağı  tatlı",
+    "city": "vienna",
+    "materials": [
+      "çikolatalı kek",
+      "kayısı reçeli",
+      "çikolata kaplaması"
+    ],
+    "description": "zengin çikolatalı kek dilimleri hazırlanır, aralarına kayısı reçeli sürülür. üzerine çikolata kaplaması yapılır. soğuduktan sonra dilimlenip servis edilir. geleneksel avusturya tatlısı olarak sunulur."
+  },
+  {
+    "foodname": "moussaka",
+    "foodcategory": "yunan mutfağı",
+    "city": "athens",
+    "materials": [
+      "patlıcan",
+      "kıyma",
+      "patatesler",
+      "beşamel"
+    ],
+    "description": "patlıcan dilimleri kızartılır veya fırında pişirilir. kıyma ve baharatlarla hazırlanan et sosu, kızarmış patates ile katmanlanır. üzerine beşamel sos dökülüp fırında pişirilir. sıcak olarak dilimlenip servis edilir."
+  },
+  {
+    "foodname": "souvlaki",
+    "foodcategory": "yunan mutfağı  sokak lezzeti",
+    "city": "athens",
+    "materials": [
+      "et kuzudomuz",
+      "pita",
+      "tzatziki",
+      "sebzeler"
+    ],
+    "description": "küçük et parçaları marine edilip şişlere dizilir ve ızgarada pişirilir. taze pita ekmeği ile birlikte servis edilir. tzatziki sos ve sebzelerle tamamlanır. sıcak olarak sunulur."
+  },
+  {
+    "foodname": "gyro",
+    "foodcategory": "yunan mutfağı  sokak lezzeti",
+    "city": "athens",
+    "materials": [
+      "et",
+      "pita",
+      "domatesler",
+      "soğanlar",
+      "tzatziki"
+    ],
+    "description": "marine edilmiş et, döner şeklinde pişirilir ve ince dilimler halinde kesilir. pita ekmeği içine yerleştirilir. domates, soğan ve tzatziki sos eklenir. hızlıca rulo yapılarak servis edilir."
+  },
+  {
+    "foodname": "spanakopita",
+    "foodcategory": "yunan mutfağı",
+    "city": "athens",
+    "materials": [
+      "filo hamuru",
+      "ıspanak",
+      "feta",
+      "soğan",
+      "otlar"
+    ],
+    "description": "i̇nce filo hamur açılır, ıspanak, feta, soğan ve otlarla doldurulur. rulo şeklinde sarılır ve dilimlenir. fırında hafifçe kızarana kadar pişirilir. sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "baklava yunan",
+    "foodcategory": "yunan mutfağı  tatlı",
+    "city": "athens",
+    "materials": [
+      "filo",
+      "kuruyemiş",
+      "bal şerbeti"
+    ],
+    "description": "i̇nce filo hamur kat kat dizilir, arasına ceviz veya fındık serpilir. üzerine bal veya şerbet dökülür. fırında hafifçe ısıtıldıktan sonra dilimlenir. tatlı olarak soğuk servis edilir."
+  },
+  {
+    "foodname": "dolmades",
+    "foodcategory": "yunan mutfağı",
+    "city": "athens",
+    "materials": [
+      "üzüm yaprakları",
+      "pirinç",
+      "otlar",
+      "isteğe bağlı et"
+    ],
+    "description": "üzüm yaprakları, pirinç ve taze otlar ile doldurulur. i̇steğe bağlı olarak kıyma eklenir. yapraklar sıkıca sarılıp, tencereye dizilir. limon sosu ile pişirildikten sonra sıcak olarak servis edilir."
+  },
+  {
+    "foodname": "pastitsio",
+    "foodcategory": "yunan mutfağı",
+    "city": "athens",
+    "materials": [
+      "makarna",
+      "kıyma",
+      "beşamel",
+      "domates sosu"
+    ],
+    "description": "kat kat makarna, baharatlı kıyma ve beşamel sos fırında pişirilir. domates sosu ile tatlandırılır. fırından çıkar çıkmaz dilimlenip sıcak servis edilir. geleneksel yunan yemeği olarak sunulur."
+  }
+]
